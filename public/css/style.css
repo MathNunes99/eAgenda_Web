@@ -1,0 +1,25 @@
+.btn-primary{
+  background-color: rgb(168, 74, 255);
+  border-color: rgb(168, 74, 255);
+}
+
+.btn-primary:hover {
+  background-color: rgb(126, 0, 126);
+  border-color: rgb(126, 0, 126);
+}
+
+.drop-shadow {  
+  filter: drop-shadow(rgb(96, 66, 114));
+}
+
+.no-select{
+  user-select: none;
+}
+
+.bg-primary{
+  background-color: rgb(139, 139, 1) !important;
+}
+
+.dropdown-item:active, .dropdown-item:hover{
+  background-color: rgb(139, 139, 1) !important
+}
